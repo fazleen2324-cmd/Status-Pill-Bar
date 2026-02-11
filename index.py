@@ -1,2 +1,5 @@
-print("Hello shaan")
+print("Hello shaanawaaz")
 print("This is a test script.")
+print("This is a test spt.")
+print("This is a pt.")
+print(" ")
