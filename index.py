@@ -1,4 +1,4 @@
-print("Hello Aleem here , this is a test script for the status pill bar.")
+print("Hello shaan here , this is a test script for the status pill bar.")
 print("This is a test script.")
 print("This is a test spt.")
 print("This is a pt.")
